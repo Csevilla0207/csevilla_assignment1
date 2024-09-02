@@ -27,3 +27,15 @@ everything is pushed
 - helps serve as backup files
 - effective project management
 - able to work on the same project
+
+# Purpose of the following Git Commands
+- `git init`: initializes git repository
+- `git status`: check status of repository
+- `git add`: adds changes made in repository
+- `git commit`: commits changes made
+- `git push`: pushes repository to gitub
+- `git pull`: download content from repository
+- `git log`: displays commited snapshots
+- `git branch`: creates branches
+- `git merge`: merges branches
+- `git checkout`: navigate between different branches
