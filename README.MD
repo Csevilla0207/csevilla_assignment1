@@ -20,3 +20,10 @@ everything is pushed
 - `cd`: move or navigate between different directories
 - `code`: open vscode
 - `ls`: creates a lists of files in the directory you are in
+
+# Why Version Control is Important
+## with version control, it is possible to:
+- helps track changes
+- helps serve as backup files
+- effective project management
+- able to work on the same project
