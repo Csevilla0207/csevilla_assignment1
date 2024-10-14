@@ -39,3 +39,10 @@ everything is pushed
 - `git branch`: creates branches
 - `git merge`: merges branches
 - `git checkout`: navigate between different branches
+
+# My Unique Touch
+## Describe something that sets you apart from others:
+- i build custom keyboards
+- i play competitive airsoft
+- i am an amateur boxer 
+- i write
